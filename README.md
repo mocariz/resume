@@ -48,4 +48,4 @@ Sempre estou em busca de aperfeiçoar meus conhecimentos, e aplicar isso no meu 
 
 # Formação
 
-**Ánalise e Desenvolvimento de Sistemas** - 2011 - 2016 
+**Ánalise e Desenvolvimento de Sistemas - FATEC** - 2011 - 2016 
