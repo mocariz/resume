@@ -45,3 +45,7 @@ Sempre estou em busca de aperfeiçoar meus conhecimentos, e aplicar isso no meu 
 
 **Estagiário Desenvolvedor/Trainee** - Squitter Meteorologia e Hidrologia - Junho de 2013 - Agosto 2016
 > Desenvolvimento um sistema web para análise de dados meteorológicos utilizando Django e AngularJS e outras ferramentas necessárias para o desenvolvimento da funcionalidade.
+
+# Formação
+
+**Ánalise e Desenvolvimento de Sistemas** - 2011 - 2016 
